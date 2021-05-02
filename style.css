@@ -1,0 +1,21 @@
+#submit_button{
+background-color: rgb(23, 218, 208);
+margin-top:20px;
+margin-bottom:20px;
+}
+body{
+background-color: rgb(145, 181, 228);
+}
+input{
+margin: 10px;
+}
+span,h3{
+color: black;
+}
+#sort_button{
+    display: none;
+    background-color:midnightblue ;
+    margin-top:20px;
+    margin-bottom:20px;
+    color: ghostwhite;
+    }
